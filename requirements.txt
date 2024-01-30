@@ -2,3 +2,7 @@ openai
 langchain
 google-search-results
 numexpr
+tiktoken
+faiss-cpu
+beautifulsoup4
+unstructured
